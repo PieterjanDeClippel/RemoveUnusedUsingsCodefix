@@ -1,9 +1,9 @@
-﻿// dotnet format ./ConsoleApp19.sln
-// will remove this unused using directive
-
-using System;
+﻿using System;
+using System.Text;
+using System.Threading.Tasks;
 using System.Text.RegularExpressions;
-
 
 // See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+
+public class Test { }
